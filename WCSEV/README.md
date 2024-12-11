@@ -61,5 +61,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For queries or collaboration, please reach out to:
 - **Author**: Sai Teja Jarabala
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [jarabalasaiteja@gmail.com]
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/jsaiteja/)]
